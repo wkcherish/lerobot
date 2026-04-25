@@ -1,0 +1,7 @@
+复现了act、smolvla、pi0.5
+只有act没有任何问题，这些内容用于后续论文写作时使用
+
+相关工作：
+1.复现模型，相关链接：https://acn59hvfac4g.feishu.cn/wiki/Uthswu2bzisy2qkcHCVcXkz2n7g
+https://acn59hvfac4g.feishu.cn/wiki/R2gzwI817iLc5LkiFgkckxDVnch
+2.在isaaclab中强化学习训练了机械臂抓🍊的任务，并尝试进行了sim2real,但是失败了，是基于权重到现实，最大的问题是没有加入视觉信息
